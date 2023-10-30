@@ -1,4 +1,3 @@
-# camera-info
 
 ![](https://img.shields.io/badge/Camera_info-orange)
 
